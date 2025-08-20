@@ -18,8 +18,8 @@ a repository to test the github system
   * リスト項目え
 
 1. 箇条書き項目あ
-1-1. 箇条書き項目あ
+  1-1. 箇条書き項目あ
 2. 箇条書き項目あ
-2-1. 箇条書き項目あ
+  2-1. 箇条書き項目あ
 
 <https://www.ritsumei.ac.jp/se/re/izumilab/>
